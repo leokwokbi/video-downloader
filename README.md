@@ -33,7 +33,7 @@ Before you begin, ensure you have:
 
 1. **Clone or download this repository**
    ```powershell
-   git clone https://github.com/yourusername/video-downloader.git
+   git clone https://github.com/leokwokbi/video-downloader.git
    cd video-downloader
    ```
 
