@@ -9,11 +9,12 @@ downloads/
 *.m4a
 
 # ============================================
-# Excel Files (User Data)
+# Spreadsheet / List Files (User Data)
 # ============================================
 *.xlsx
 *.xls
-!List.xlsx
+*.csv
+!list.csv
 
 # ============================================
 # Python
@@ -163,7 +164,7 @@ $RECYCLE.BIN/
 # ============================================
 # Project Specific
 # ============================================
-# Backup Excel files
+# Backup spreadsheet files
 ~$*.xlsx
 ~$*.xls
 
